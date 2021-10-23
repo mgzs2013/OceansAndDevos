@@ -1,2 +1,2 @@
 # OceansAndDevos
-Pictures of creation and the creator's creed.
+This is my very first Git repository with actual content.
